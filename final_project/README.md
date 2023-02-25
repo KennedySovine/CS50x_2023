@@ -14,9 +14,9 @@ Originally, the chrome extention had been planned to be a hydrate reminder type 
 1. Go to chrome://extentions
 ![Image of chrome extentions](https://github.com/KennedySovine/CS50x_2023/blob/main/final_project/Images/Step_1.png)
 2. Turn on developer mode
-![Developer mode on](/Images/Step_2.png)
+![Developer mode on](https://github.com/KennedySovine/CS50x_2023/blob/main/final_project/Images/Step_2.png)
 3. and then unload the extention and make sure it is turned on.
-![Extention is turned on](/Images/Step_3.png)
+![Extention is turned on](https://github.com/KennedySovine/CS50x_2023/blob/main/final_project/Images/Step_3.png)
 
 Manifest.json identifies the extention and allows for the extention to alter the page. This is required because without it, the extention wouldn't be able to alter the page at all and would be useless.
 
