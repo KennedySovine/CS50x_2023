@@ -1,0 +1,3 @@
+If songs.db had the top 100 songs of 1 listner from 2018, I would categorize their music by the energy, valance, and daceability of their music along with their genre.
+
+A better way to calculate the aura would be to see what songs they skipped and factor that in.
