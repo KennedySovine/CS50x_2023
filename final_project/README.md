@@ -12,7 +12,7 @@ Originally, the chrome extention had been planned to be a hydrate reminder type 
 
 ## Steps to open:
 1. Go to chrome://extentions
-![Image of chrome extentions](/Images/Step_1.png)
+![Image of chrome extentions](https://github.com/KennedySovine/CS50x_2023/blob/main/final_project/Images/Step_1.png)
 2. Turn on developer mode
 ![Developer mode on](/Images/Step_2.png)
 3. and then unload the extention and make sure it is turned on.
